@@ -209,7 +209,8 @@ h3{
  color: var(--text);
 }
 
-@media (max-width:800px){
+@media (max-width:800px) {
+
     body{
         background-color:var(--bd);
         display: flex;
